@@ -6,7 +6,7 @@
 
 #### 2 June, 2019
 
-* [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://arxiv.org/abs/1906.00346), *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* Accepted to IJCAI 2019.
+* [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://arxiv.org/abs/1906.00346), *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* IJCAI 2019.
 
 #### 31 May, 2019
 
