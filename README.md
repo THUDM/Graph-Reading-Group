@@ -2,11 +2,11 @@
 
 #### 3 June, 2019
 
-* [Factor Graph Neural Network](https://arxiv.org/abs/1906.00554), *Zhen Zhang, Fan Wu, Wee Sun Lee.*
+* [Factor Graph Neural Network](https://arxiv.org/abs/1906.00554), *Zhen Zhang, Fan Wu, Wee Sun Lee.* Under NeurIPS 2019 review.
 
 #### 2 June, 2019
 
-* [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://arxiv.org/abs/1906.00346), *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.*
+* [Pre-training of Graph Augmented Transformers for Medication Recommendation](https://arxiv.org/abs/1906.00346), *Junyuan Shang, Tengfei Ma, Cao Xiao, Jimeng Sun.* Accepted to IJCAI 2019.
 
 #### 31 May, 2019
 
