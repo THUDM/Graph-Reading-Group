@@ -2,11 +2,7 @@
 
 #### 6 June, 2019
 
-* [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification](https://arxiv.org/abs/1906.02319), *Jun Wu, Jingrui He, Jiejun Xu.* KDD 2019 Research Track.
-
 * [Dynamically Fused Graph Network for Multi-hop Reasoning](https://arxiv.org/abs/1905.06933), *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu.* ACL 19.
-
-* [Graph Learning Network: A Structure Learning Algorithm](https://arxiv.org/abs/1905.12665), *Darwin Saire Pilco, Adín Ramírez Rivera.* ICML 2019 Workshop.
 
 #### 5 June, 2019
 
@@ -19,6 +15,10 @@
 * [Variational Spectral Graph Convolutional Networks](https://arxiv.org/abs/1906.01852), *Louis Tiao, Pantelis Elinas, Harrison Nguyen, Edwin V. Bonilla.* Under NeurIPS 2019 review.
 
 * [Binarized Collaborative Filtering with Distilling Graph Convolutional Networks](https://arxiv.org/abs/1906.01829), *Haoyu Wang, Defu Lian, Yong Ge.*
+
+* [DEMO-Net: Degree-specific Graph Neural Networks for Node and Graph Classification](https://arxiv.org/abs/1906.02319), *Jun Wu, Jingrui He, Jiejun Xu.* KDD 2019 Research Track.
+
+* [Graph Learning Network: A Structure Learning Algorithm](https://arxiv.org/abs/1905.12665), *Darwin Saire Pilco, Adín Ramírez Rivera.* ICML 2019 Workshop.
 
 #### 3 June, 2019
 
