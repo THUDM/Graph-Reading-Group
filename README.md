@@ -1,5 +1,9 @@
 # Graph Reading Group
 
+#### 7 June, 2019
+
+* [Labeled Graph Generative Adversarial Networks](https://arxiv.org/abs/1906.03220), *Shuangfei Fan, Bert Huang.* Under NeurIPS 2019 review.
+
 #### 6 June, 2019
 
 * [Dynamically Fused Graph Network for Multi-hop Reasoning](https://arxiv.org/abs/1905.06933), *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu.* ACL 19.
