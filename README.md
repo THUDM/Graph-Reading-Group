@@ -1,5 +1,13 @@
 # Graph Reading Group
 
+#### 10 June, 2019
+
+* [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://arxiv.org/abs/1906.04214), *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* IJCAI 2019
+
+#### 9 June, 2019
+
+* [Fine-grained Event Categorization with Heterogeneous Graph Convolutional Networks](https://arxiv.org/abs/1906.04580), *Hao Peng, Jianxin Li, Qiran Gong, Yangqiu Song, Yuanxing Ning, Kunfeng Lai, Philip S. Yu.* IJCAI 2019
+
 #### 7 June, 2019
 
 * [Labeled Graph Generative Adversarial Networks](https://arxiv.org/abs/1906.03220), *Shuangfei Fan, Bert Huang.* Under NeurIPS 2019 review.
@@ -40,6 +48,8 @@ Generic Structural Feature Extraction](https://arxiv.org/abs/1905.13728), *Ziniu
 #### 30 May, 2019
 
 * [Graph Neural Tangent Kernel: Fusing Graph Neural Networks with Graph Kernels](https://arxiv.org/abs/1905.13192), *Simon S. Du, Kangcheng Hou, Barnabás Póczos, Ruslan Salakhutdinov, Ruosong Wang, Keyulu Xu.*
+
+* [EdMot: An Edge Enhancement Approach for Motif-aware Community Detection](https://arxiv.org/abs/1906.04560), *Pei-Zhen Li, Ling Huang, Chang-Dong Wang, Jian-Huang Lai.* KDD 2019
 
 #### 29 May, 2019
 
