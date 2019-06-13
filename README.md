@@ -4,6 +4,9 @@
 
 * [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358), *Adam Gaier, David Ha.* Under NeurIPS 2019 review.
 
+#### 11 June, 2019
+* [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359), *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.* ICML 2019 best paper award
+
 #### 10 June, 2019
 
 * [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://arxiv.org/abs/1906.04214), *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* IJCAI 2019
