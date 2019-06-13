@@ -1,5 +1,9 @@
 # Graph Reading Group
 
+#### 12 June, 2019
+
+* [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358), *Adam Gaier, David Ha.* Under NeurIPS 2019 review.
+
 #### 10 June, 2019
 
 * [Topology Attack and Defense for Graph Neural Networks: An Optimization Perspective](https://arxiv.org/abs/1906.04214), *Kaidi Xu, Hongge Chen, Sijia Liu, Pin-Yu Chen, Tsui-Wei Weng, Mingyi Hong, Xue Lin.* IJCAI 2019
