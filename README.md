@@ -1,5 +1,9 @@
 # Graph Reading Group
 
+#### 13 June, 2019
+
+* [Cognitive Knowledge Graph Reasoning for One-shot Relational Learning](https://arxiv.org/pdf/1906.05489.pdf), *Zhengxiao Du, Chang Zhou, Ming Ding, Hongxia Yang, Jie Tang.* Under NeurIPS 2019 review.
+
 #### 12 June, 2019
 
 * [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358), *Adam Gaier, David Ha.* Under NeurIPS 2019 review.
