@@ -12,6 +12,8 @@
 
 * [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://arxiv.org/abs/1906.05488), *Pengfei Chen, Weiwen Liu, Chang-Yu Hsieh, Guangyong Chen, Shengyu Zhang.* Under NeurIPS 2019 review.
 
+* [Position-aware Graph Neural Networks](https://arxiv.org/abs/1906.04817), *Jiaxuan You, Rex Ying, Jure Leskovec.* ICML 2019
+
 #### 12 June, 2019
 
 * [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358), *Adam Gaier, David Ha.* Under NeurIPS 2019 review.
@@ -21,7 +23,10 @@
 * [Multiple instance learning with graph neural networks](https://arxiv.org/abs/1906.04881), *Ming Tu, Jing Huang, Xiaodong He, Bowen Zhou.* ICML 2019 Workshop.
 
 #### 11 June, 2019
+
 * [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359), *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.* ICML 2019 best paper award
+
+* [Graph Convolutional Transformer: Learning the Graphical Structure of Electronic Health Records](https://arxiv.org/abs/1906.04716), *Edward Choi, Zhen Xu, Yujia Li, Michael W. Dusenberry, Gerardo Flores, Yuan Xue, Andrew M. Dai.* Under NeurIPS 2019 review.
 
 #### 10 June, 2019
 
