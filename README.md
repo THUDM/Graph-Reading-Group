@@ -1,12 +1,24 @@
 # Graph Reading Group
 
+#### 14 June, 2019
+
+* [Disentangling Mixtures of Epidemics on Graphs](https://arxiv.org/abs/1906.06057), *Jessica Hoffmann, Soumya Basu, Surbhi Goel, Constantine Caramanis.* Under NeurIPS 2019 review.
+
 #### 13 June, 2019
 
 * [Cognitive Knowledge Graph Reasoning for One-shot Relational Learning](https://arxiv.org/pdf/1906.05489.pdf), *Zhengxiao Du, Chang Zhou, Ming Ding, Hongxia Yang, Jie Tang.* Under NeurIPS 2019 review.
 
+* [Identifying Illicit Accounts in Large Scale E-payment Networks -- A Graph Representation Learning Approach](https://arxiv.org/abs/1906.05546), *Da Sun Handason Tam, Wing Cheong Lau, Bin Hu, Qiu Fang Ying, Dah Ming Chiu, Hong Liu.* 
+
+* [Utilizing Edge Features in Graph Neural Networks via Variational Information Maximization](https://arxiv.org/abs/1906.05488), *Pengfei Chen, Weiwen Liu, Chang-Yu Hsieh, Guangyong Chen, Shengyu Zhang.* Under NeurIPS 2019 review.
+
 #### 12 June, 2019
 
 * [Weight Agnostic Neural Networks](https://arxiv.org/abs/1906.04358), *Adam Gaier, David Ha.* Under NeurIPS 2019 review.
+
+* [Graph Embedding on Biomedical Networks: Methods, Applications, and Evaluations](https://arxiv.org/abs/1906.05017), *Xiang Yue, Zhen Wang, Jingong Huang, Srinivasan Parthasarathy, Soheil Moosavinasab, Yungui Huang, Simon M. Lin, Wen Zhang, Ping Zhang, Huan Sun.* Under Bioinformatics journal review.
+
+* [Multiple instance learning with graph neural networks](https://arxiv.org/abs/1906.04881), *Ming Tu, Jing Huang, Xiaodong He, Bowen Zhou.* ICML 2019 Workshop.
 
 #### 11 June, 2019
 * [Challenging Common Assumptions in the Unsupervised Learning of Disentangled Representations](https://arxiv.org/abs/1811.12359), *Francesco Locatello, Stefan Bauer, Mario Lucic, Gunnar Rätsch, Sylvain Gelly, Bernhard Schölkopf, Olivier Bachem.* ICML 2019 best paper award
