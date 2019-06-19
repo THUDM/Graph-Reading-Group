@@ -1,5 +1,19 @@
 # Graph Reading Group
 
+#### 18 June, 2019
+
+* [vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159), *Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang.* 
+
+* [Consistency of semi-supervised learning algorithms on graphs: Probit and one-hot methods](https://arxiv.org/abs/1906.07658), *Franca Hoffmann, Bamdad Hosseini, Zhi Ren, Andrew M. Stuart.*
+
+#### 17 June, 2019
+
+* [Homogeneous Network Embedding for Massive Graphs via Personalized PageRank](https://arxiv.org/abs/1906.06826), *Renchi Yang, Jieming Shi, Xiaokui Xiao, Sourav S. Bhowmick, Yin Yang.*
+
+#### 15 June, 2019
+
+* [Attributed Graph Clustering: A Deep Attentional Embedding Approach](https://arxiv.org/abs/1906.06532), *Chun Wang, Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Chengqi Zhang.* 
+
 #### 14 June, 2019
 
 * [Disentangling Mixtures of Epidemics on Graphs](https://arxiv.org/abs/1906.06057), *Jessica Hoffmann, Soumya Basu, Surbhi Goel, Constantine Caramanis.* Under NeurIPS 2019 review.
