@@ -1,5 +1,9 @@
 # Graph Reading Group
 
+#### 19 June, 2019
+
+* [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), *Zhilin Yang∗, Zihang Dai∗, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le.* Under NeurIPS 2019 review.
+
 #### 18 June, 2019
 
 * [vGraph: A Generative Model for Joint Community Detection and Node Representation Learning](https://arxiv.org/abs/1906.07159), *Fan-Yun Sun, Meng Qu, Jordan Hoffmann, Chin-Wei Huang, Jian Tang.* 
