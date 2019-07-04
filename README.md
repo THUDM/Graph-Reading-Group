@@ -1,8 +1,18 @@
 # Graph Reading Group
 
+#### 2 July, 2019
+
+* [dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning](https://arxiv.org/abs/1809.02657), *Palash Goyal, Sujit Rokka Chhetri, Arquimedes Canedo.* Under Knowledge Based Systems review.
+
 #### 1 July, 2019
 
 * [iPool -- Information-based Pooling in Hierarchical Graph Neural Networks](https://arxiv.org/abs/1907.00832), *Xing Gao, Hongkai Xiong, Pascal Frossard.* Under NeurIPS 2019 review.
+
+* [Learning Representations of Graph Data -- A Survey](https://arxiv.org/abs/1906.02989), *Mital Kinderkhedia.* 
+
+#### 30 June, 2019
+
+* [Fisher-Bures Adversary Graph Convolutional Networks](https://arxiv.org/abs/1903.04154), *Ke Sun, Piotr Koniusz, Zhen Wang.* 
 
 #### 28 June, 2019
 
@@ -10,11 +20,27 @@
 
 * [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://arxiv.org/abs/1906.12269), *Daniel Zügner, Stephan Günnemann.* KDD 2019
 
+* [Label Efficient Semi-Supervised Learning via Graph Filtering](https://arxiv.org/abs/1901.09993), *Qimai Li, Xiao-Ming Wu, Han Liu, Xiaotong Zhang, Zhichao Guan.*
+
+* [Graph Convolutional Transformer: Learning the Graphical Structure of Electronic Health Records](https://arxiv.org/abs/1906.04716), *Edward Choi, Zhen Xu, Yujia Li, Michael W. Dusenberry, Gerardo Flores, Yuan Xue, Andrew M. Dai.* Under NeurIPS 2019 review.
+
 #### 27 June, 2019
 
 * [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://arxiv.org/abs/1906.11786), *Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow.* Under NeurIPS 2019 review.
 
 * [Adversarial Representation Learning on Large-Scale Bipartite Graphs](https://arxiv.org/abs/1906.11994), *Chaoyang He, Tian Xie, Yu Rong, Wenbing Huang, Junzhou Huang, Xiang Ren, Cyrus Shahabi.* Under NeurIPS 2019 review.
+
+* [Inference in Probabilistic Graphical Models by Graph Neural Networks](https://arxiv.org/abs/1803.07710), *KiJung Yoon, Renjie Liao, Yuwen Xiong, Lisa Zhang, Ethan Fetaya, Raquel Urtasun, Richard Zemel, Xaq Pitkow.* ICML 2019 Workshop
+
+#### 26 June, 2019
+
+* [Provably Powerful Graph Networks](https://arxiv.org/abs/1905.11136), *Haggai Maron, Heli Ben-Hamu, Hadar Serviansky, Yaron Lipman.* Under NeurIPS 2019 review.
+
+#### 20 June, 2019
+
+* [Simplifying Graph Convolutional Networks](https://arxiv.org/abs/1902.07153), *Felix Wu, Tianyi Zhang, Amauri Holanda de Souza Jr., Christopher Fifty, Tao Yu, Kilian Q. Weinberger.* ICML 2019
+
+* [A Graph Auto-Encoder for Attributed Network Embedding](https://arxiv.org/abs/1906.08745), *Keting Cen, Huawei Shen, Jinhua Gao, Qi Cao, Bingbing Xu, Xueqi Cheng.* 
 
 #### 19 June, 2019
 
