@@ -1,5 +1,21 @@
 # Graph Reading Group
 
+#### 1 July, 2019
+
+* [iPool -- Information-based Pooling in Hierarchical Graph Neural Networks](https://arxiv.org/abs/1907.00832), *Xing Gao, Hongkai Xiong, Pascal Frossard.* Under NeurIPS 2019 review.
+
+#### 28 June, 2019
+
+* [GNN-FiLM: Graph Neural Networks with Feature-wise Linear Modulation](https://arxiv.org/abs/1906.12192), *Marc Brockschmidt.* 
+
+* [Certifiable Robustness and Robust Training for Graph Convolutional Networks](https://arxiv.org/abs/1906.12269), *Daniel Zügner, Stephan Günnemann.* KDD 2019
+
+#### 27 June, 2019
+
+* [Fast Training of Sparse Graph Neural Networks on Dense Hardware](https://arxiv.org/abs/1906.11786), *Matej Balog, Bart van Merriënboer, Subhodeep Moitra, Yujia Li, Daniel Tarlow.* Under NeurIPS 2019 review.
+
+* [Adversarial Representation Learning on Large-Scale Bipartite Graphs](https://arxiv.org/abs/1906.11994), *Chaoyang He, Tian Xie, Yu Rong, Wenbing Huang, Junzhou Huang, Xiang Ren, Cyrus Shahabi.* Under NeurIPS 2019 review.
+
 #### 19 June, 2019
 
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237), *Zhilin Yang∗, Zihang Dai∗, Yiming Yang, Jaime Carbonell, Ruslan Salakhutdinov, Quoc V. Le.* Under NeurIPS 2019 review.
