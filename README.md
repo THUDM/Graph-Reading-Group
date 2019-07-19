@@ -1,5 +1,37 @@
 # Graph Reading Group
 
+#### 16 July, 2019
+
+* [Compositional Fairness Constraints for Graph Embeddings](https://arxiv.org/abs/1905.10674), *Avishek Joey Bose, William L. Hamilton.* ICML 2019.
+
+#### 13 July, 2019
+
+* [k-hop Graph Neural Networks](https://arxiv.org/abs/1907.06051), *Giannis Nikolentzos, George Dasoulas, Michalis Vazirgiannis.* Under NeurIPS 2019 review.
+
+#### 11 July, 2019
+
+* [Mincut pooling in Graph Neural Networks](https://arxiv.org/abs/1907.00481), *Filippo Maria Bianchi, Daniele Grattarola, Cesare Alippi.*
+
+* [Understanding the Representation Power of Graph Neural Networks in Learning Graph Topology](https://arxiv.org/abs/1907.05008), *Nima Dehmamy, Albert-László Barabási, Rose Yu.* Under NeurIPS 2019 review.
+
+#### 10 July, 2019
+
+* [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://arxiv.org/abs/1907.04931), *Hanqing Zeng, Hongkuan Zhou, Ajitesh Srivastava, Rajgopal Kannan, Viktor Prasanna.* Under NeurIPS 2019 review.
+
+#### 6 July, 2019
+
+* [What graph neural networks cannot learn: depth vs width](https://arxiv.org/abs/1907.03199), *Andreas Loukas.*
+
+#### 5 July, 2019
+
+* [Graph Representation Learning via Hard and Channel-Wise Attention Networks](https://arxiv.org/abs/1907.04652), *Hongyang Gao, Shuiwang Ji.* KDD 2019.
+
+#### 4 July, 2019
+
+* [Improving Attention Mechanism in Graph Neural Networks via Cardinality Preservation](https://arxiv.org/abs/1907.02204), *Shuo Zhang, Lei Xie.* Under NeurIPS 2019 review.
+
+* [Dimensional Reweighting Graph Convolutional Networks](https://arxiv.org/abs/1907.02237), *Xu Zou, Qiuye Jia, Jianwei Zhang, Chang Zhou, Hongxia Yang, Jie Tang.* Under NeurIPS 2019 review.
+
 #### 2 July, 2019
 
 * [dyngraph2vec: Capturing Network Dynamics using Dynamic Graph Representation Learning](https://arxiv.org/abs/1809.02657), *Palash Goyal, Sujit Rokka Chhetri, Arquimedes Canedo.* Under Knowledge Based Systems review.
